@@ -1,0 +1,33 @@
+what is <!DOCTYPE html>, why we need to use it.
+what are inline and block level elememnts?
+what is javascript?
+what are id and class selectors?
+what are semantic elememnts?
+responsive 
+HTML Event attributes.
+
+what is tag and elememnt
+The HTML element is everything from the start tag to the end tag:
+
+HTML Attributes
+All HTML elements can have attributes
+Attributes provide additional information about elements
+Attributes are always specified in the start tag
+Attributes usually come in name/value pairs like: name="value"
+
+eg: <img src="img_girl.jpg" width="500" height="600">
+
+form table
+details will create a sleeping traiangle?
+
+project ref
+
+https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/
+
+
+
+
+https://dotnettutorials.net/lesson/favicon-in-html/
+https://www.youtube.com/watch?v=za031mewZNc&list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
+
+
